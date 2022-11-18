@@ -1,13 +1,16 @@
 {
   "name": "work0002",
   "theme": "syntax",
-  "version": "0.0.0",
-  "description": "A short description of your syntax theme",
+  "version": "0.0.1",
+  "description": "เอสเอเกมมิ่ง บริการบาคาร่า ไฮโล ป๊อกเด้ง เล่นง่ายผ่านเว็บตรง 2023",
   "keywords": [
-    "syntax",
-    "theme"
+    "เอสเอเกมมิ่ง",
+    "บาคาร่า",
+    "เกมไฮโล",
+    "ป๊อกเด้ง",
+    "Sa gaming คาสิโน"
   ],
-  "repository": "https://github.com/atom/work0002",
+  "repository": "https://github.com/Fameraider/work0002",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
